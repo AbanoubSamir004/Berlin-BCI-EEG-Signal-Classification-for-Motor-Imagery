@@ -17,13 +17,16 @@ Key responsibilities:
 
 Results:
 
-The project resulted in the development of machine learning models that were able to accurately classify motor imagery for each person based on the EEG signals. The use of PSD analysis and bandpass filtering improved the performance of the models, as demonstrated by higher ccuracy score on the test set.
+The project resulted in the development of machine learning models that were able to accurately classify motor imagery for each person based on the EEG signals. The use of PSD analysis and bandpass filtering improved the performance of the models, as demonstrated by higher accuracy score on the test set.
 
 ## Before Filtering
 ![Screenshot 2023-01-06 212330](https://user-images.githubusercontent.com/60902991/211084657-56a15db4-c75b-467b-8c7b-ee37c26478b5.png)
 
 ## After Filtering
 ![Screenshot 2023-01-06 212315](https://user-images.githubusercontent.com/60902991/211084661-0eb1c730-37b0-4907-8cd4-cf280cd2f7d7.png)
+
+## Accuracy Score
+![Screenshot 2023-01-06 212804](https://user-images.githubusercontent.com/60902991/211085307-2eec6927-6c17-4ff0-bc53-c05904e47411.png)
 
 
 Skills demonstrated:
